@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 20px;
+}
+h2{
+    font-weight: normal;
+}
+table{
+    border-top: 2px solid rgb(175, 172, 172);
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid rgb(175, 172, 172);
+}
+a {
+    text-decoration: none;
+    border-bottom: 1px solid #ed5e42;
+    color: black;
+}
+a:visited{
+    color: #800080
+}
+#text{
+    padding-top: 250px;
+    padding-left: 20px;
+    font-size: 16px;
+    color: white;
+}
+.first-box{
+    height: 400px;
+}
+.picture-top {
+   background-image: url(p1.jpg);
+   background-repeat: no-repeat;
+   height: 100%;
+   background-size: contain;
+}
+.robot {
+    height: 400px;
+}
